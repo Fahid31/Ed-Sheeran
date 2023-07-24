@@ -1,18 +1,18 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@500&display=swap');
+
+
 body{
     font-family: 'Poppins', sans-serif;
-    /* background: white; */
+    background: #1f2833;
+    margin: 0;
 
 .navbar-nav .nav-link {
     color: white;
 }
 
 .banner-image {
-        /* margin-top: 33px;
-        margin-left: 24px;
-        margin-right: 79px;
-        margin-bottom: 0; */
-        width: 720px;
-        height: 900px;
+        width: 510px;
+        height: 610px;
     }
     
     .banner-image img {
@@ -21,87 +21,34 @@ body{
     }
 
     #button1{
-            padding-left: 45px;
-            padding-right: 45px;
-            padding-top: 20px;
-            padding-bottom: 20px;
+            padding-left: 25px;
+            padding-right: 25px;
+            padding-top: 15px;
+            padding-bottom: 10px;
     }
     #ticket-button{
-        margin-top: -15px;
-        padding-top: 15px;
+        margin-top: -14px;
+        padding-top: 12px;
     }
 
-.heading {
-    padding-top: 80px;
-    padding-bottom: 90px;
+.section{
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+.heading{
+    padding-bottom: 60px;
 }
 
+.custom-container{
+    background-color: #0b0C10;
+    padding-top: 40px;
+    padding-bottom : 5px;
+    margin-left: 0;
+    margin-right: 0;
+    
+
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-/* .cover{
-    filter: brightness(65%);
+.footer-text{
+    font-size: 10px;
 }
-
-#button1{
-    padding-left: 35px;
-    padding-right: 35px;
 }
-.button-2{
-    display: flex;
-    align-items: center;
-    justify-content: end;
-    padding-left: 50px;
-    padding-right: 50px;
-}
-
-@media screen and (max-width:768px) {
-    .img-extend img {
-        width: 200%;
-    }
-}
-@media screen and (max-width:990px){
-    .companies{
-        display: none;
-
-    }
-}
-@media screen and (max-width:1200px){
-    .footer{
-        width: 100%;
-
-    }
-} */
